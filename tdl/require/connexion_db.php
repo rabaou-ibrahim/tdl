@@ -7,9 +7,9 @@
 // Connexion à la base de données (pas pour Plesk)
 
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "todolist";
+$username = "rabaou5";
+$password = "Starter-2022";
+$dbname = "rabaou-ibrahim_todolist";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
